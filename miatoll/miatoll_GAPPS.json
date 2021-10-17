@@ -1,14 +1,13 @@
 {
-  "response": [
-    {
-     "datetime": 1620909881,
-     "filename": "PalladiumOS-v1.3-miatoll-20210513-OFFICIAL-GAPPS.zip",
-     "id": "1a61d6074a868babc8659942a8d1e1da8a220d8a74bb53691b8a6a8cf6e2b7c5",
-     "romtype": "OFFICIAL",
-     "size": 1832343044,
-     "url": "https://download.palladiumos.me/miatoll/PalladiumOS-v1.3-miatoll-20210513-OFFICIAL-GAPPS.zip",
-     "version": "11"
-    }
-  ]
+	"response": [
+		{
+			"datetime": 1634289748,
+			"filename": "Palladium-v1.5-miatoll-20211015-OFFICIAL-GAPPS.zip",
+			"id": "384f2f7df2686d7848546a1fa4308c1c",
+			"romtype": "OFFICIAL",
+			"size": 1666480394,
+			"url": "https://dump.palladiumos.com/release/miatoll/Palladium-v1.5-miatoll-20211015-OFFICIAL-GAPPS.zip",
+			"version": "v1.5"
+		}
+	]
 }
-
