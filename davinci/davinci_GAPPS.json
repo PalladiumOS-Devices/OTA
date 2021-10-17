@@ -1,13 +1,13 @@
 {
   "response": [
     {
-     "datetime": 1621491014,
-     "filename": "PalladiumOS-v1.3-davinci-20210520-OFFICIAL-GAPPS",
-     "id": "b8d1aae327b984f6adbd702856585440ffb8dfac170ff3352bf0c0972421911b",
+     "datetime": 1634302488,
+     "filename": "Palladium-v1.5-davinci-20211015-OFFICIAL-GAPPS.zip",
+     "id": "e493a3434073bdae514a767dad484bc9",
      "romtype": "OFFICIAL",
-     "size": 1759717290,
-     "url": "https://download.palladiumos.me/davinci/PalladiumOS-v1.3-davinci-20210520-OFFICIAL-GAPPS.zip",
-     "version": "11"
+     "size": 1825641650,
+     "url": "https://dump.palladiumos.com/release/davinci/Palladium-v1.5-davinci-20211015-OFFICIAL-GAPPS.zip",
+     "version": "v1.5"
     }
   ]
 }
