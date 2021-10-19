@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-     "datetime": 1621072012,
-     "filename": "PalladiumOS-v1.3-tissot 20210515-OFFICIAL-VANILLA.zip",
-     "id": "9bd81eb311bee207c246dcd6847070eb03432120da167b7e3a5235cc31bc7e30",
-     "romtype": "OFFICIAL",
-     "size": 744460794,
-     "url": "https://download.palladiumos.me/tissot/PalladiumOS-v1.3-tissot-20210515-OFFICIAL-VANILLA.zip",
-     "version": "11"
-    }
-  ]
+	"response": [
+		{
+			"datetime": 1634366162,
+			"filename": "Palladium-v1.5-tissot-20211016-OFFICIAL-VANILLA.zip",
+			"id": "e7d5cc3b0606dd5a7243792e547ce67f",
+			"romtype": "OFFICIAL",
+			"size": 693147272,
+			"url": "https://dump.palladiumos.com/release/tissot/Palladium-v1.5-tissot-20211016-OFFICIAL-VANILLA.zip",
+			"version": "v1.5"
+		}
+	]
 }
