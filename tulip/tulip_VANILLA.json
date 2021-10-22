@@ -1,13 +1,13 @@
 {
   "response": [
     {
-     "datetime": 1621008516,
-     "filename": "PalladiumOS-v1.3-tulip-20210514-OFFICIAL-VANILLA.zip",
-     "id": "14504eed2819ccdadb3b6e58474ef1c3db1a5d31797d65503e81e6e78e1f121a",
-     "romtype": "OFFICIAL",
-     "size": 828169360,
-     "url": "https://download.palladiumos.me/tulip/PalladiumOS-v1.3-tulip-20210514-OFFICIAL-VANILLA.zip",
-     "version": "11"
+      "datetime": 1634914044,
+      "filename": "Palladium-v1.5-tulip-20211022-OFFICIAL-VANILLA.zip",
+      "id": "48a5e41dac78a194834d35a8d000ec58",
+      "romtype": "OFFICIAL",
+      "size": 831576927,
+      "url": "https://dump.palladiumos.com/release/tulip/Palladium-v1.5-tulip-20211022-OFFICIAL-VANILLA.zip",
+      "version": "v1.5"
     }
   ]
 }
