@@ -1,13 +1,13 @@
 {
-  "response": [
-    {
-     "datetime": 1621366883,
-     "filename": "PalladiumOS-v1.3-surya-20210519-OFFICIAL-GAPPS.zip",
-     "id": "b7151866ef9daf7735886e1a427f27a74818849824b1f57e71249ad4eea43e24",
-     "romtype": "OFFICIAL",
-     "size": 1636217792,
-     "url": "https://download.palladiumos.me/surya/PalladiumOS-v1.3-surya-20210519-OFFICIAL-GAPPS.zip",
-     "version": "11"
-    }
-  ]
+	"response": [
+		{
+			"datetime": 1634643167,
+			"filename": "Palladium-v1.5-surya-20211019-OFFICIAL-GAPPS.zip",
+			"id": "0a624935e73bfba17e9bc934a476caf5",
+			"romtype": "OFFICIAL",
+			"size": 1471352143,
+			"url": "https://dump.palladiumos.com/release/surya/Palladium-v1.5-surya-20211019-OFFICIAL-GAPPS.zip",
+			"version": "v1.5"
+		}
+	]
 }
