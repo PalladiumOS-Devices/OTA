@@ -1,13 +1,13 @@
 {
   "response": [
     {
-     "datetime": 1621016669,
-     "filename": "PalladiumOS-v1.3-fajita-20210514-OFFICIAL-GAPPS.zip",
-     "id": "476874e508a3f34c84ff0f1015545290c682c56d9858b441eaecdee2cfaa3dc8",
+     "datetime": 1635021808,
+     "filename": "Palladium-v1.5-fajita-20211023-OFFICIAL-GAPPS.zip",
+     "id": "ecc3bb2a158037d0955897cafbd47a05",
      "romtype": "OFFICIAL",
-     "size": 1234088896,
-     "url": "https://download.palladiumos.me/fajita/PalladiumOS-v1.3-fajita-20210514-OFFICIAL-GAPPS.zip",
-     "version": "11"
+     "size": 1212150431,
+     "url": "https://dump.palladiumos.com/release/fajita/Palladium-v1.5-fajita-20211023-OFFICIAL-GAPPS.zip",
+     "version": "v1.5"
     }
   ]
 }
