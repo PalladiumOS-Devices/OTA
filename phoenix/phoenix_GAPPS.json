@@ -1,13 +1,13 @@
 {
   "response": [
     {
-     "datetime": 1617044248,
-     "filename": "PalladiumOS-v1.1-phoenix-20210329-OFFICIAL-GAPPS.zip",
-     "id": "60994ce3e4c81e163270e660a976b916ff15d8069772d5e627b6c2305b016d26",
+     "datetime": 1634994809,
+     "filename": "Palladium-v1.5-phoenix-20211023-OFFICIAL-GAPPS.zip",
+     "id": "43489f08d290fbc6a296842da0ffdf9b",
      "romtype": "OFFICIAL",
-     "size": 1636217792,
-     "url": "https://download.palladiumos.me/?dir=phoenix/PalladiumOS-v1.1-phoenix-20210329-OFFICIAL-GAPPS.zip",
-     "version": "11"
+     "size": 1851778947,
+     "url": "https://dump.palladiumos.com/release/phoenix/Palladium-v1.5-phoenix-20211023-OFFICIAL-GAPPS.zip",
+     "version": "v1.5"
     }
   ]
 }
