@@ -1,0 +1,8 @@
+=================================
+Changelog(28/10/2021)
+=================================
+Initial Android 12 release
+Enforing Build
+Safetynet passes out of the box
+Set redfin FP to SP1A.210812.015
+Redcliff kernel

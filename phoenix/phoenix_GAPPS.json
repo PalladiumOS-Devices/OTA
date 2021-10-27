@@ -1,0 +1,13 @@
+{
+    "response": [
+      {
+       "datetime": 1635316034,
+       "filename": "PalladiumOS-2.0-Aries-phoenix-OFFICIAL-GAPPS-0611-20211027.zip",
+       "id": "ad0058ca70f14cbd0e3467a1aa9e2cc028a868a3ff9435d7b2a3ce21b49e7c3f",
+       "romtype": "OFFICIAL",
+       "size": 1732483669,
+       "url": "https://github.com/PalladiumOS-Devices/device_xiaomi_phoenix/releases/download/2.0/PalladiumOS-2.0-Aries-phoenix-OFFICIAL-GAPPS-0611-20211027.zip",
+       "version": "2.0"
+      }
+    ]
+}
