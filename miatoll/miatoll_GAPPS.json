@@ -1,13 +1,13 @@
 {
 	"response": [
 		{
-			"datetime": 1634289748,
-			"filename": "Palladium-v1.5-miatoll-20211015-OFFICIAL-GAPPS.zip",
-			"id": "384f2f7df2686d7848546a1fa4308c1c",
+			"datetime": 1634765468,
+			"filename": "PalladiumOS-2.0-Aries-miatoll-OFFICIAL-GAPPS-0550-20211026.zip",
+			"id": "825c71784c13014430c326b74a7905f5bfe0fb8a67b721e49e9983ec3be13c5e",
 			"romtype": "OFFICIAL",
-			"size": 1666480394,
-			"url": "https://dump.palladiumos.com/release/miatoll/Palladium-v1.5-miatoll-20211015-OFFICIAL-GAPPS.zip",
-			"version": "v1.5"
+			"size": 1616677021,
+			"url": "https://github.com/PalladiumOS-Devices/device_xiaomi_miatoll/releases/download/2.0/PalladiumOS-2.0-Aries-miatoll-OFFICIAL-GAPPS-0550-20211026.zip",
+			"version": "2.0"
 		}
 	]
 }
