@@ -1,0 +1,10 @@
+=================================
+Changelog(29/10/2021)
+=================================
+Initial Release
+SELinux Enforcing
+Update statusbar overlay
+Passed Safetynet by default
+Added realmeDirac & realmeParts
+Added Dual SIM Data & One Hand Mode
+Fixed screen-record error (Thanks to sharanpai)
