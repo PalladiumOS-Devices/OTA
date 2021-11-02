@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+     "datetime": 1635744234,
+     "filename": "PalladiumOS-2.0-Aries-kebab-OFFICIAL-GAPPS-0452-20211101.zip",
+     "id": "ca9b783b61c7b7d45969aba435367aedffd28c2bbad8e7ec05d559f1260fbbb1",
+     "romtype": "OFFICIAL",
+     "size": 1702136968,
+     "url": "https://github.com/PalladiumOS-Devices/device_oneplus_kebab/releases/download/2.0/PalladiumOS-2.0-Aries-kebab-OFFICIAL-GAPPS-0452-20211101.zip",
+     "version": "2.0"
+    }
+  ]
+}

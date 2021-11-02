@@ -1,0 +1,6 @@
+=================================
+Changelog(02/11/2021)
+=================================
+Initial Android 12 release
+Permissive build
+Safetynet passes out of the box
