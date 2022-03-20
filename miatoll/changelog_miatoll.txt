@@ -1,2 +1,4 @@
-Initial release
-Permissive build
+SeLinux Enforcing
+Upstreamed kernel to 4.14.272
+Switched to QTI bt
+Other Fixes and improvements
