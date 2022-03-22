@@ -1,13 +1,13 @@
 {
     "response": [
       {
-       "datetime": 1635316034,
-       "filename": "PalladiumOS-2.0-Aries-phoenix-OFFICIAL-GAPPS-0611-20211027.zip",
-       "id": "ad0058ca70f14cbd0e3467a1aa9e2cc028a868a3ff9435d7b2a3ce21b49e7c3f",
+       "datetime": 1647964347,
+       "filename": "PalladiumOS-2.1-Halo-phoenix-OFFICIAL-GAPPS-1527-20220322.zip",
+       "id": "4b48964cdd922606a707f0e93926ad7c14744a355257d25bb3514b8b869643c6",
        "romtype": "OFFICIAL",
-       "size": 1732483669,
-       "url": "https://github.com/PalladiumOS-Devices/device_xiaomi_phoenix/releases/download/2.0/PalladiumOS-2.0-Aries-phoenix-OFFICIAL-GAPPS-0611-20211027.zip",
-       "version": "2.0"
+       "size": 1823109041,
+       "url": "https://github.com/PalladiumOS-Devices/device_xiaomi_phoenix/releases/download/2.1/PalladiumOS-2.1-Halo-phoenix-OFFICIAL-GAPPS-1527-20220322.zip",
+       "version": "2.1"
       }
     ]
 }

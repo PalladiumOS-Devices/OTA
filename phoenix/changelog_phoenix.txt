@@ -1,8 +1,8 @@
 =================================
-Changelog(28/10/2021)
+Changelog(22/03/2022)
 =================================
-Initial Android 12 release
-Enforing Build
+Initial Android 12.1 release
 Safetynet passes out of the box
-Set redfin FP to SP1A.210812.015
-Redcliff kernel
+Adapt status_bar_height to Sv2
+Update ims symlink path
+Other Fixes and improvements
