@@ -1,0 +1,13 @@
+{
+    "response": [
+      {
+       "datetime": 1648039001,
+       "filename": "PalladiumOS-2.1-Halo-RM6785-OFFICIAL-GAPPS-1221-20220323.zip",
+       "id": "432e7e8e78aa21d61f1546fae961f49bb85d31ec629b3e370f0f608e74336a3b",
+       "romtype": "OFFICIAL",
+       "size": 1683355144,
+       "url": "https://github.com/PalladiumOS-Devices/device_realme_RM6785/releases/download/2.1/PalladiumOS-2.1-Halo-RM6785-OFFICIAL-GAPPS-1221-20220323.zip",
+       "version": "2.1"
+      }
+    ]
+}
