@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+     "datetime": 1647953683,
+     "filename": "PalladiumOS-2.1-Halo-alioth-OFFICIAL-GAPPS-1945-20220326.zip",
+     "id": "f8bf8b84ed0930ba28323c05d03568373c9dde7dbef4c07f7d172a3b060e6c4f",
+     "romtype": "OFFICIAL",
+     "size": 1671768805 ,
+     "url": "https://github.com/PalladiumOS-Devices/device_xiaomi_alioth/releases/download/2.1/PalladiumOS-2.1-Halo-alioth-OFFICIAL-GAPPS-1945-20220326.zip"
+     "version": "2.1"
+    }
+  ]
+}
