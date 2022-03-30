@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+     "datetime": 1648653586,
+     "filename": "PalladiumOS-2.1-Halo-whyred-OFFICIAL-GAPPS-1451-20220330.zip",
+     "id": "ee09c921b2b90058fe2f596a3926e5934c5399d6a047ca20effef3d7e19ad9c3",
+     "romtype": "OFFICIAL",
+     "size": 1412237597,
+     "url": "https://github.com/PalladiumOS-Devices/device_xiaomi_whyred/releases/download/2.1/PalladiumOS-2.1-Halo-whyred-OFFICIAL-GAPPS-1451-20220330.zip",
+     "version": "2.1"
+    }
+  ]
+}
