@@ -1,3 +1,0 @@
-• Initial Official Build
-• SELinux Enforcing
-• Safetynet passes out of the box

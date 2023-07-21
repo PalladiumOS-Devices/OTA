@@ -1,6 +1,0 @@
-Initial Android 12.1 release
-Updated FP to raven march
-CTS passed by default
-SELinux Enforcing
-Upstreamed kernel to 4.4.302
-Misc improvements

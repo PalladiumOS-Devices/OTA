@@ -1,6 +1,0 @@
-• Initial Official Build
-• SELinux Enforcing
-• Safetynet passes out of the box
-• Fixed Offline charging animation
-• Added Additional Settings
-• Other Fixes and improvements
