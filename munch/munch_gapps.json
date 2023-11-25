@@ -1,12 +1,12 @@
 {
   "response": [
     {
-     "datetime": 1700887872,
-     "filename": "PalladiumOS-4.0-munch-OFFICIAL-GAPPS-0451-20231125.zip",
-     "id": "ce0fb4fe71ea124ece1a435e066114ddcee5b23cdb29fa7bc243ea56befaca23",
+     "datetime": 1700932733,
+     "filename": "PalladiumOS-4.0-munch-OFFICIAL-GAPPS-1718-20231125.zip",
+     "id": "8a0b0488278259c78f62e8fe72a5e922987cb3b4fd97f48a060d95d4c1711a05",
      "romtype": "OFFICIAL",
-     "size": 2323551032,
-     "url": "https://github.com/PalladiumOS-Devices/device_xiaomi_munch/releases/download/4.0/PalladiumOS-4.0-munch-OFFICIAL-GAPPS-0451-20231125.zip",
+     "size": 2323542663,
+     "url": "https://api.palladiumos.org/download/PalladiumOS-4.0-munch-OFFICIAL-GAPPS-1718-20231125.zip",
      "version": "4.0"
     }
   ]
