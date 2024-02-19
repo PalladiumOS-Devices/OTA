@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+     "datetime": 1708348904,
+     "filename": "PalladiumOS-4.1-shiba-OFFICIAL-GAPPS-1255-20240219.zip",
+     "id": "96c4e286ab15c169cce6ee57cb8447ccd4066532a0fe2c478c15404afcf8b27e",
+     "romtype": "OFFICIAL",
+     "size": 1973155866,
+     "url": "https://artifacts.palladiumos.org/shiba/PalladiumOS-4.1-shiba-OFFICIAL-GAPPS-1255-20240219.zip",
+     "version": "4.1"
+    }
+  ]
+}
