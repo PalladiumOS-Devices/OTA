@@ -1,12 +1,12 @@
 {
   "response": [
     {
-     "datetime": 1708348904,
-     "filename": "PalladiumOS-4.1-shiba-OFFICIAL-GAPPS-1255-20240219.zip",
-     "id": "96c4e286ab15c169cce6ee57cb8447ccd4066532a0fe2c478c15404afcf8b27e",
+     "datetime": 1708450562,
+     "filename": "PalladiumOS-4.1-shiba-OFFICIAL-GAPPS-1720-20240220.zip",
+     "id": "59deb49ec4548534a85850124c7d021052a017a5a5018a4b752e3b7b46e9991e",
      "romtype": "OFFICIAL",
-     "size": 1973155866,
-     "url": "https://artifacts.palladiumos.org/shiba/PalladiumOS-4.1-shiba-OFFICIAL-GAPPS-1255-20240219.zip",
+     "size": 1973136462,
+     "url": "https://artifacts.palladiumos.org/shiba/PalladiumOS-4.1-shiba-OFFICIAL-GAPPS-1720-20240220.zip",
      "version": "4.1"
     }
   ]
